@@ -1,0 +1,226 @@
+# Basis scheikunde samenvatting
+Scheikunde bestudeert stoffen, hun eigenschappen en hoe ze veranderen door reacties. Stoffen kunnen fysische veranderingen ondergaan zonder van soort te veranderen, of chemische reacties waarbij nieuwe stoffen ontstaan. De materie bestaat uit atomen en moleculen, die zich groeperen tot elementen en verbindingen. Het periodiek systeem ordent elementen op basis van hun eigenschappen. Bindingen tussen atomen bepalen de structuur en eigenschappen van stoffen. Stoffen kunnen in verschillende aggregatietoestanden voorkomen, zoals vast, vloeibaar of gas. Zuivere stoffen bestaan uit één soort molecuul, mengsels uit meerdere. Chemische processen zijn overal om ons heen, van verbranding tot fotosynthese. Begrippen als pH, ionen en isotopen zijn essentieel voor het begrijpen van reacties en toepassingen in het dagelijks leven.
+
+---
+
+# SCHEIKUNDE AANTEKENINGEN
+
+## Wat is scheikunde?
+Scheikunde onderzoekt de samenstelling, eigenschappen en veranderingen van stoffen op moleculair niveau. Het helpt ons te begrijpen hoe stoffen reageren en transformeren, wat essentieel is voor bijvoorbeeld medicijnontwikkeling, energieproductie en milieubeheer. Atoom betekent 'ondeelbaar'.
+
+Scheikunde bestudeert de opbouw, eigenschappen en veranderingen van stoffen. Het onderzoekt hoe en waarom chemische reacties plaatsvinden, inclusief de mechanismen en voorwaarden. Bij een chemische reactie worden stoffen omgezet in nieuwe stoffen met andere eigenschappen. Chemische reacties kunnen energie afgeven (exotherm) of opnemen (endotherm). Voorbeelden zijn verbranding, fotosynthese, roesten en polymerisatie (kunststoffen maken).
+
+
+---
+
+## Verschil met natuurkunde
+Scheikunde en natuurkunde overlappen, maar richten zich op verschillende aspecten van materie. Waar natuurkunde zich bezighoudt met fysische eigenschappen en veranderingen zonder stofomzetting, bestudeert scheikunde blijvende veranderingen op moleculair niveau waarbij nieuwe stoffen ontstaan.
+
+Natuurkunde kijkt naar de fysische eigenschappen van stoffen zonder dat ze veranderen in andere stoffen (bijvoorbeeld smelten, koken, breken van licht). Scheikunde gaat over blijvende veranderingen op moleculair niveau waarbij nieuwe stoffen ontstaan.
+
+---
+
+
+
+## Chemische eigenschappen (scheikundig)
+Chemische eigenschappen beschrijven hoe een stof reageert met andere stoffen en onder welke omstandigheden. Deze eigenschappen bepalen het gedrag van stoffen in reacties.
+
+Belangrijke chemische eigenschappen zijn brandbaarheid, reactiviteit met zuurstof/water/zuren/basen (oxidatiegevoeligheid), giftigheid/toxiciteit/corrosiviteit, en stabiliteit (wel of niet makkelijk ontleden).
+
+---
+
+
+
+## Zuivere stoffen en mengsels
+Het onderscheid tussen zuivere stoffen en mengsels is fundamenteel in scheikunde. Zuivere stoffen bestaan uit één soort molecuul, terwijl mengsels uit meerdere stoffen bestaan. Dit verschil is belangrijk voor scheidingsmethoden en toepassingen.
+
+Een zuivere stof bestaat uit één soort molecuul (bijvoorbeeld H₂O, CO₂, CH₄) en is niet te scheiden door fysische methoden. Een mengsel is een combinatie van verschillende stoffen (bijvoorbeeld lucht, zout water) en kan gescheiden worden door fysische scheidingen zoals destillatie, filtratie of chromatografie. Een homogeen mengsel ziet er overal hetzelfde uit (zoals zout water). Een heterogeen mengsel heeft verschillende zichtbare delen (zoals zand in water).
+
+---
+
+## Opbouw van materie
+Materie is opgebouwd uit atomen, de kleinste bouwstenen van elementen. Atomen bestaan uit subatomaire deeltjes die samen de eigenschappen van stoffen bepalen. Het begrip moleculen en verbindingen helpt ons de diversiteit aan stoffen te begrijpen.
+
+Een atoom is de kleinste bouwsteen van een element. Atomen bestaan uit subatomaire deeltjes (protonen, neutronen en elektronen). Een molecuul is een groep atomen verbonden door chemische bindingen. Een element is een stof van één atoomsoort (bijvoorbeeld O₂, Fe). Een verbinding is een stof met verschillende atoomsoorten (bijvoorbeeld H₂O, CO₂).
+
+---
+
+## Periodiek systeem
+Het periodiek systeem ordent alle elementen op basis van hun atoomnummer en eigenschappen. Het helpt ons voorspellen hoe elementen zich gedragen en met elkaar reageren.
+
+Het atoomnummer is gelijk aan het aantal protonen in de kern. Perioden (rijen 1-7) geven het aantal elektronenschillen aan. Groepen (kolommen 1-18) tonen het aantal elektronen in de buitenste schil en bepalen chemische eigenschappen en vergelijkbaar gedrag.
+
+Elementsoorten zijn: metalen, alkalimetalen (groep 1), aardalkalimetalen (groep 2), overgangsmetalen, metalloïden (halfmetalen), niet-metalen, en edelgassen (groep 18, inert).
+
+---
+
+## Covalentie en bindingen
+Bindingen tussen atomen bepalen hoe moleculen zijn opgebouwd en welke eigenschappen ze hebben. Het begrip covalentie helpt te begrijpen hoeveel bindingen een atoom kan vormen. Verschillende bindingstypes zorgen voor de diversiteit aan stoffen en hun gedrag.
+
+Covalentie is het aantal bindingen dat een atoom kan vormen. De berekening is: 8 minus aantal elektronen in buitenste schil. Voorbeeld: Fosfor (2-8-5) heeft 8-5 = covalentie 3. Stikstof (2-5) heeft ook 8-5 = covalentie 3.
+
+Soorten bindingen zijn: covalente binding (delen van elektronenparen tussen niet-metalen), polaire covalente binding (ongelijke verdeling van elektronen tussen atomen met verschillende elektronegativiteit), ionbinding (overdracht van elektronen tussen metaal en niet-metaal zoals NaCl keukenzout), metaalbinding (elektronengas tussen metaalatomen), waterstofbruggen (zwakke aantrekking via H-atoom tussen moleculen, belangrijk bij water en DNA), en Van der Waals krachten (zwakke tijdelijke aantrekking tussen moleculen, ook wel intermoleculaire krachten).
+
+Voorbeeld: In keukenzout (NaCl) is sprake van een ionbinding tussen natrium (Na⁺) en chloride (Cl⁻) ionen. Watermoleculen vormen waterstofbruggen, wat zorgt voor unieke eigenschappen zoals hoge kookpunten en oppervlaktespanning.
+
+
+---
+
+## Ion en lading
+Ionen zijn geladen deeltjes die ontstaan door het opnemen of afstaan van elektronen. Ze spelen een belangrijke rol in chemische reacties en in het functioneren van biologische systemen.
+
+Een ion is een atoom of molecuul met elektrische lading door verlies of opname van elektronen. Een kation is positief geladen (minder elektronen), bijvoorbeeld Na⁺. Een anion is negatief geladen (meer elektronen), bijvoorbeeld Cl⁻.
+
+---
+
+## Isotopen
+Isotopen zijn varianten van hetzelfde element met een verschillend aantal neutronen. Ze zijn belangrijk in onderzoek, medische toepassingen en dateringstechnieken.
+
+Definitie: isotopen zijn atomen van hetzelfde element met een verschillend aantal neutronen. Radioactiviteit treedt op wanneer instabiele isotopen vervallen.
+
+Waterstofisotopen zijn Protium (¹H) met 1 proton en geen neutron, Deuterium (²H) met 1 proton en 1 neutron, en Tritium (³H) met 1 proton en 2 neutronen (radioactief). Carbon-14 wordt gebruikt voor datering van archeologische objecten. Medische isotopen worden gebruikt voor diagnose en behandeling.
+
+---
+
+## Veelvoorkomende begrippen
+Deze begrippen komen vaak voor in scheikunde en zijn essentieel voor het begrijpen van reacties en eigenschappen van stoffen.
+
+Een oxide is een verbinding van zuurstof met een ander element. Een zuur is een stof die H⁺-ionen afgeeft in water. Een base is een stof die OH⁻-ionen afgeeft in water of H⁺ opneemt. De pH-schaal is een maat voor zuurgraad (0-14, pH 7 is neutraal). De definitie is -log[H⁺]. Het bereik is 0 tot 14, waarbij 0 zeer zuur is en 14 zeer basisch. Neutraal is pH 7 (zuiver water). Buffers houden de pH stabiel door H⁺ of OH⁻ te binden of af te geven en zo schommelingen te voorkomen. Reactiviteit is de mate waarin een stof geneigd is te reageren. Een katalysator is een stof die de reactiesnelheid verhoogt zonder zelf verbruikt te worden.
+
+---
+
+## Belangrijke kringlopen
+Kringlopen laten zien hoe stoffen continu worden hergebruikt en omgezet in de natuur, wat essentieel is voor het leven op aarde.
+
+De koolstofkringloop werkt als volgt: CO₂ uit de lucht wordt opgenomen door planten (fotosynthese), ingebouwd in organische stoffen, en komt via verbranding of ademhaling terug naar de lucht. De stikstofkringloop: N₂ uit lucht wordt door bacteriën omgezet in bruikbare stikstofverbindingen voor planten en dieren. De waterkringloop: verdamping, condensatie en neerslag zorgen voor continu transport van water op aarde.
+
+---
+
+## DRILLS - Periodiek Systeem – symbool per element
+
+- Wat is het symbool van Waterstof?:H
+- Wat is het symbool van Helium?:He
+- Wat is het symbool van Lithium?:Li
+- Wat is het symbool van Beryllium?:Be
+- Wat is het symbool van Boor?:B
+- Wat is het symbool van Koolstof?:C
+- Wat is het symbool van Stikstof?:N
+- Wat is het symbool van Zuurstof?:O
+- Wat is het symbool van Fluor?:F
+- Wat is het symbool van Neon?:Ne
+- Wat is het symbool van Natrium?:Na
+- Wat is het symbool van Magnesium?:Mg
+- Wat is het symbool van Aluminium?:Al
+- Wat is het symbool van Silicium?:Si
+- Wat is het symbool van Fosfor?:P
+- Wat is het symbool van Zwavel?:S
+- Wat is het symbool van Chloor?:Cl
+- Wat is het symbool van Argon?:Ar
+- Wat is het symbool van Kalium?:K
+- Wat is het symbool van Calcium?:Ca
+- Wat is het symbool van Scandium?:Sc
+- Wat is het symbool van Titanium?:Ti
+- Wat is het symbool van Vanadium?:V
+- Wat is het symbool van Chroom?:Cr
+- Wat is het symbool van Mangaan?:Mn
+- Wat is het symbool van IJzer?:Fe
+- Wat is het symbool van Kobalt?:Co
+- Wat is het symbool van Nikkel?:Ni
+- Wat is het symbool van Koper?:Cu
+- Wat is het symbool van Zink?:Zn
+- Wat is het symbool van Gallium?:Ga
+- Wat is het symbool van Germanium?:Ge
+- Wat is het symbool van Arseen?:As
+- Wat is het symbool van Seleem?:Se
+- Wat is het symbool van Broom?:Br
+- Wat is het symbool van Krypton?:Kr
+- Wat is het symbool van Rubidium?:Rb
+- Wat is het symbool van Strontium?:Sr
+- Wat is het symbool van Zilver?:Ag
+- Wat is het symbool van Tin?:Sn
+- Wat is het symbool van Jodium?:I
+- Wat is het symbool van Xenon?:Xe
+- Wat is het symbool van Cesium?:Cs
+- Wat is het symbool van Barium?:Ba
+- Wat is het symbool van Platina?:Pt
+- Wat is het symbool van Goud?:Au
+- Wat is het symbool van Kwik?:Hg
+- Wat is het symbool van Lood?:Pb
+- Wat is het symbool van Uranium?:U
+
+---
+
+## DRILLS - Periodiek Systeem – atoomnummer per element (1–36 + bekende)
+
+- Wat is het atoomnummer van Waterstof?:1
+- Wat is het atoomnummer van Helium?:2
+- Wat is het atoomnummer van Lithium?:3
+- Wat is het atoomnummer van Beryllium?:4
+- Wat is het atoomnummer van Boor?:5
+- Wat is het atoomnummer van Koolstof?:6
+- Wat is het atoomnummer van Stikstof?:7
+- Wat is het atoomnummer van Zuurstof?:8
+- Wat is het atoomnummer van Fluor?:9
+- Wat is het atoomnummer van Neon?:10
+- Wat is het atoomnummer van Natrium?:11
+- Wat is het atoomnummer van Magnesium?:12
+- Wat is het atoomnummer van Aluminium?:13
+- Wat is het atoomnummer van Silicium?:14
+- Wat is het atoomnummer van Fosfor?:15
+- Wat is het atoomnummer van Zwavel?:16
+- Wat is het atoomnummer van Chloor?:17
+- Wat is het atoomnummer van Argon?:18
+- Wat is het atoomnummer van Kalium?:19
+- Wat is het atoomnummer van Calcium?:20
+- Wat is het atoomnummer van Scandium?:21
+- Wat is het atoomnummer van Titanium?:22
+- Wat is het atoomnummer van Vanadium?:23
+- Wat is het atoomnummer van Chroom?:24
+- Wat is het atoomnummer van Mangaan?:25
+- Wat is het atoomnummer van IJzer?:26
+- Wat is het atoomnummer van Kobalt?:27
+- Wat is het atoomnummer van Nikkel?:28
+- Wat is het atoomnummer van Koper?:29
+- Wat is het atoomnummer van Zink?:30
+- Wat is het atoomnummer van Gallium?:31
+- Wat is het atoomnummer van Germanium?:32
+- Wat is het atoomnummer van Arseen?:33
+- Wat is het atoomnummer van Seleem?:34
+- Wat is het atoomnummer van Broom?:35
+- Wat is het atoomnummer van Krypton?:36
+- Wat is het atoomnummer van Rubidium?:37
+- Wat is het atoomnummer van Strontium?:38
+- Wat is het atoomnummer van Zilver?:47
+- Wat is het atoomnummer van Tin?:50
+- Wat is het atoomnummer van Jodium?:53
+- Wat is het atoomnummer van Xenon?:54
+- Wat is het atoomnummer van Cesium?:55
+- Wat is het atoomnummer van Barium?:56
+- Wat is het atoomnummer van Platina?:78
+- Wat is het atoomnummer van Goud?:79
+- Wat is het atoomnummer van Kwik?:80
+- Wat is het atoomnummer van Lood?:82
+- Wat is het atoomnummer van Uranium?:92
+
+---
+
+## DRILLS - Belangrijke formules
+
+- Wat is de formule van Water?:H2O
+- Wat is de formule van Waterstofgas?:H2
+- Wat is de formule van Zuurstofgas?:O2
+- Wat is de formule van Koolstofdioxide?:CO2
+- Wat is de formule van Stikstofgas?:N2
+- Wat is de formule van Ammoniak?:NH3
+- Wat is de formule van Methaan?:CH4
+- Wat is de formule van Ethanol?:C2H5OH
+- Wat is de formule van Keukenzout?:NaCl
+- Wat is de formule van Zoutzuur?:HCl
+- Wat is de formule van Zwavelzuur?:H2SO4
+- Wat is de formule van Natronloog?:NaOH
+- Wat is de formule van Calciumcarbonaat?:CaCO3
+- Wat is de formule van Glucose?:C6H12O6
+
+---
+
+Zie natuurkunde-aantekeningen voor deze onderwerpen.

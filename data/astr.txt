@@ -1,0 +1,218 @@
+
+
+
+- Hoeveel miljard sterren bevat de Melkweg ongeveer (ondergrens)?:100
+- Hoeveel planeten heeft ons zonnestelsel?:8
+
+
+
+- Hoeveel km per seconde is de snelheid van licht?:300.000
+- Hoeveel biljoen kilometer is een lichtjaar?:9,5
+- Hoeveel lichtjaar is de doorsnee van de Melkweg?:100.000
+- Wat is de naam van de dichtstbijzijnde ster na de zon?:Proxima Centauri
+- Hoeveel lichtjaar staat Proxima Centauri van ons?:4,2
+
+
+
+- Hoeveel miljoen km is de afstand van Mercurius tot de zon?:58
+- Hoeveel miljoen km is de afstand van Venus tot de zon?:108
+- Hoeveel miljoen km is de afstand van de Aarde tot de zon?:150
+- Hoeveel miljoen km is de afstand van Mars tot de zon?:228
+- Hoeveel miljoen km is de afstand van Jupiter tot de zon?:778
+- Hoeveel miljoen km is de afstand van Saturnus tot de zon?:1429
+- Hoeveel miljoen km is de afstand van Uranus tot de zon?:2871
+- Hoeveel miljoen km is de afstand van Neptunus tot de zon?:4495
+- Welke planeet staat 58 miljoen km van de zon?:Mercurius
+- Welke planeet staat 108 miljoen km van de zon?:Venus
+- Welke planeet staat 150 miljoen km van de zon?:Aarde
+- Welke planeet staat 228 miljoen km van de zon?:Mars
+- Welke planeet staat 778 miljoen km van de zon?:Jupiter
+- Welke planeet staat 1429 miljoen km van de zon?:Saturnus
+- Welke planeet staat 2871 miljoen km van de zon?:Uranus
+- Welke planeet staat 4495 miljoen km van de zon?:Neptunus
+
+
+
+- Hoeveel km is de doorsnede van Mercurius?:4879
+- Hoeveel km is de doorsnede van Venus?:12104
+- Hoeveel km is de doorsnede van de Aarde?:12742
+- Hoeveel km is de doorsnede van Mars?:6779
+- Hoeveel km is de doorsnede van Jupiter?:139820
+- Hoeveel km is de doorsnede van Saturnus?:116460
+- Hoeveel km is de doorsnede van Uranus?:50724
+- Hoeveel km is de doorsnede van Neptunus?:49244
+- Welke planeet is het grootst qua doorsnede?:Jupiter
+- Welke planeet is het kleinst qua doorsnede?:Mercurius
+
+
+
+
+- Wat voor type planeet is Mercurius: rotsachtig, gasreus of ijsreus?:rotsachtig
+- Wat voor type planeet is Venus: rotsachtig, gasreus of ijsreus?:rotsachtig
+- Wat voor type planeet is de Aarde: rotsachtig, gasreus of ijsreus?:rotsachtig
+- Wat voor type planeet is Mars: rotsachtig, gasreus of ijsreus?:rotsachtig
+- Wat voor type planeet is Jupiter: rotsachtig, gasreus of ijsreus?:gasreus
+- Wat voor type planeet is Saturnus: rotsachtig, gasreus of ijsreus?:gasreus
+- Wat voor type planeet is Uranus: rotsachtig, gasreus of ijsreus?:ijsreus
+- Wat voor type planeet is Neptunus: rotsachtig, gasreus of ijsreus?:ijsreus
+
+
+
+- Hoeveel manen heeft Mercurius?:0
+- Hoeveel manen heeft Venus?:0
+- Hoeveel manen heeft de Aarde?:1
+- Hoeveel manen heeft Mars?:2
+- Hoeveel manen heeft Jupiter?:79
+- Hoeveel manen heeft Saturnus?:82
+- Hoeveel manen heeft Uranus?:27
+- Hoeveel manen heeft Neptunus?:14
+- Welke planeet heeft de meeste manen?:Saturnus
+
+
+
+- Hoeveel keer de massa van de Aarde heeft Jupiter?:317,8
+- Hoeveel keer de massa van de Aarde heeft Saturnus?:95,2
+- Hoeveel keer de massa van de Aarde heeft Neptunus?:17,1
+- Hoeveel keer de massa van de Aarde heeft Uranus?:14,5
+- Hoeveel keer de massa van de Aarde heeft Venus?:0,815
+- Hoeveel keer de massa van de Aarde heeft Mars?:0,107
+- Hoeveel keer de massa van de Aarde heeft Mercurius?:0,055
+
+
+
+- Hoeveel aardse dagen duurt een dag op Mercurius?:59
+- Hoeveel aardse dagen duurt een dag op Venus?:243
+- Hoeveel aardse dagen duurt een dag op Mars (afgerond)?:1
+- Hoeveel aardse uren duurt een dag op Jupiter (ongeveer)?:10
+- Hoeveel aardse uren duurt een dag op Saturnus (ongeveer)?:10,5
+- Welke planeet heeft de langste dag?:Venus
+
+
+
+- Hoeveel aardse dagen duurt een jaar op Mercurius?:88
+- Hoeveel aardse dagen duurt een jaar op Venus?:225
+- Hoeveel aardse dagen duurt een jaar op de Aarde?:365
+- Hoeveel aardse dagen duurt een jaar op Mars?:687
+- Hoeveel aardse jaren duurt een jaar op Jupiter (ongeveer)?:12
+- Hoeveel aardse jaren duurt een jaar op Saturnus (ongeveer)?:29
+- Hoeveel aardse jaren duurt een jaar op Uranus (ongeveer)?:84
+- Hoeveel aardse jaren duurt een jaar op Neptunus (ongeveer)?:165
+- Welke planeet heeft het kortste jaar?:Mercurius
+- Welke planeet heeft het langste jaar?:Neptunus
+
+
+
+- Wat is de gemiddelde temperatuur op Mercurius in °C?:122
+- Wat is de koudste temperatuur op Mercurius in °C?:-173
+- Wat is de warmste temperatuur op Mercurius in °C?:427
+- Wat is de temperatuur op Venus in °C?:467
+- Wat is de gemiddelde temperatuur op Aarde in °C?:14
+- Wat is de koudste gemeten temperatuur op Aarde in °C?:-89
+- Wat is de warmste gemeten temperatuur op Aarde in °C?:57
+- Wat is de gemiddelde temperatuur op Mars in °C?:-63
+- Wat is de gemiddelde temperatuur op Jupiter in °C?:-145
+- Wat is de gemiddelde temperatuur op Saturnus in °C?:-178
+- Wat is de temperatuur op Uranus in °C?:-224
+- Wat is de temperatuur op Neptunus in °C?:-214
+- Welke planeet is het heetst?:Venus
+
+
+
+- Hoeveel procent CO₂ bevat de atmosfeer van Venus?:96,5
+- Hoeveel procent stikstof bevat de atmosfeer van de Aarde?:78
+- Hoeveel procent zuurstof bevat de atmosfeer van de Aarde?:21
+- Hoeveel procent CO₂ bevat de atmosfeer van Mars?:95,3
+- Hoeveel procent waterstof bevat de atmosfeer van Jupiter?:90
+- Hoeveel procent waterstof bevat de atmosfeer van Saturnus?:90
+
+
+
+- Waaruit bestaat de kern van de Aarde (twee metalen)?:ijzer en nikkel
+- Waaruit bestaat de kern van Venus (twee metalen)?:ijzer en nikkel
+- Welk extra element bevat de kern van Mars naast ijzer en nikkel?:zwavel
+
+
+
+- Welke missie was de eerste naar Mercurius?:Mariner 10
+- In welk jaar begon Mariner 10 met scheervluchten langs Mercurius?:1974
+- Welke missie ging in een baan om Mercurius van 2011 tot 2015?:MESSENGER
+- Welke NASA-missie bracht Venus in kaart met radar?:Magellan
+- Welke missie ging in een baan om Jupiter?:Galileo
+- Welke huidige missie onderzoekt Jupiter?:Juno
+- Welke missie bestudeerde Saturnus jarenlang?:Cassini
+- Welke missie bezocht zowel Uranus als Neptunus?:Voyager 2
+
+
+
+- Welke planeet staat het dichtst bij de zon?:Mercurius
+- Welke planeet staat het verst van de zon?:Neptunus
+- Welke planeet komt na de Aarde (richting zon uit)?:Mars
+- Welke planeet komt voor de Aarde (richting zon)?:Venus
+- Op welke planeet duurt een dag langer dan een jaar?:Venus
+- Hoeveelste planeet vanaf de zon is de Aarde?:3
+- Hoeveelste planeet vanaf de zon is Jupiter?:5
+- Hoeveelste planeet vanaf de zon is Saturnus?:6
+
+
+
+- Heeft Jupiter ringen: ja of nee?:ja
+- Heeft Saturnus ringen: ja of nee?:ja
+- Heeft Uranus ringen: ja of nee?:ja
+- Heeft Neptunus ringen: ja of nee?:ja
+- Heeft Mars ringen: ja of nee?:nee
+- Welke planeet heeft de meest zichtbare ringen?:Saturnus
+- Waaruit bestaan de ringen van Saturnus voornamelijk?:ijs en rots
+- Hoeveel planeten in ons zonnestelsel hebben ringen?:4
+
+
+
+- Hoe heet de grote storm op Jupiter?:Grote Rode Vlek
+- Hoeveel graden is de axiale kanteling van Uranus (ongeveer)?:98
+- Hoe heet de hoogste berg in het zonnestelsel?:Olympus Mons
+- Op welke planeet staat Olympus Mons?:Mars
+- Hoeveel km hoog is Olympus Mons (ongeveer)?:22
+- Welke planeet draait retrograde (tegengestelde richting) om zijn as?:Venus
+- Welke andere planeet draait ook retrograde om zijn as?:Uranus
+
+
+
+- In welk jaar werd Pluto gedegradeerd tot dwergplaneet?:2006
+- In welke gordel bevindt Pluto zich?:Kuipergordel
+- Hoe heet de dwergplaneet in de asteroïdengordel?:Ceres
+- Noem een dwergplaneet die verder weg staat dan Pluto:Eris
+- Hoeveel officieel erkende dwergplaneten zijn er in ons zonnestelsel?:5
+
+
+
+- Tussen welke twee planeten ligt de asteroïdengordel?:Mars en Jupiter
+- Waar bevindt de Kuipergordel zich?:voorbij Neptunus
+- Hoe heet de bolvormige wolk van kometen aan de rand van het zonnestelsel?:Oortwolk
+- Waaruit bestaat de asteroïdengordel voornamelijk?:rotsachtige objecten
+- Waaruit bestaat de Kuipergordel voornamelijk?:ijsachtige objecten
+
+
+- Hoe heten de twee manen van Mars?:Phobos en Deimos
+- Hoeveel Galileïsche manen heeft Jupiter?:4
+- Noem de vier Galileïsche manen van Jupiter:Io, Europa, Ganymedes, Callisto
+- Welke maan van Jupiter is de grootste maan in het zonnestelsel?:Ganymedes
+- Welke maan van Jupiter heeft mogelijk een oceaan onder het ijs?:Europa
+- Welke maan van Jupiter is vulkanisch actief?:Io
+- Hoe heet de grootste maan van Saturnus?:Titan
+- Wat is bijzonder aan Titan?:heeft een dichte atmosfeer
+- Hoe heet de grootste maan van Neptunus?:Triton
+- Wat is bijzonder aan de baan van Triton?:retrograde (draait tegengesteld)
+
+
+
+- Wat voor type ster is de zon?:gele dwerg
+- Wat is de spectrale classificatie van de zon?:G-type
+- Hoeveel miljard jaar oud is de zon (ongeveer)?:4,6
+- Hoeveel km is de doorsnede van de zon (ongeveer)?:1400000
+- Hoeveel graden Celsius is de temperatuur aan het oppervlak van de zon (ongeveer)?:5500
+- Hoeveel miljoen graden Celsius is de temperatuur in de kern van de zon (ongeveer)?:15
+- Hoeveel procent van de massa van het zonnestelsel zit in de zon (ongeveer)?:99,8
+- Hoeveel keer de doorsnede van de Aarde is de doorsnede van de zon (ongeveer)?:109
+- Hoe heet de buitenste atmosfeer van de zon?:corona
+- Hoe heet het zichtbare oppervlak van de zon?:fotosfeer
+
+

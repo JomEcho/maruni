@@ -1,0 +1,59 @@
+
+De ontwikkeling van computerhardware is een verhaal van miniaturisatie en exponentiële groei in rekenkracht. Van kamervullende mainframes tot krachtige chips ter grootte van een vingernagel heeft de evolutie van hardware onze wereld getransformeerd.
+
+In 1947 werd de transistor uitgevonden bij Bell Labs, wat een revolutie betekende voor de elektronica. In 1958 volgde de geïntegreerde schakeling (IC), waarmee meerdere componenten op één chip konden worden geplaatst. In 1965 voorspelde Gordon Moore met Moore's Law dat het aantal transistors op chips elke 2 jaar zou verdubbelen, een trend die decennialang standhoudt. De Intel 4004 uit 1971 was de eerste commerciële microprocessor en markeerde het begin van het pc-tijdperk.
+
+
+Het internet heeft zijn oorsprong in militaire en academische netwerken en groeide uit tot het wereldwijde communicatienetwerk dat we vandaag kennen. De evolutie van gesloten netwerken naar het open internet vormde de basis voor de digitale revolutie.
+
+ARPANET werd in 1969 gelanceerd als voorloper van het internet, een experimenteel netwerk gefinancierd door het Amerikaanse ministerie van Defensie. Het TCP/IP protocol werd in 1973 ontwikkeld en legde de basis voor betrouwbare communicatie tussen verschillende netwerken. Tim Berners-Lee creëerde in 1989 het World Wide Web aan het CERN, met hypertext als fundamenteel concept. De Mosaic browser uit 1993 maakte het web voor het grote publiek toegankelijk met een gebruiksvriendelijke grafische interface.
+
+
+Besturingssystemen zijn de fundamentele softwarelaag die hardware beheert en applicaties mogelijk maakt. De geschiedenis van operating systems weerspiegelt de evolutie van algemene computerbenadering naar gebruiksvriendelijkheid.
+
+UNIX werd in de jaren 70 ontwikkeld en vormde de basis voor veel moderne besturingssystemen vanwege zijn modulaire architectuur. MS-DOS kwam in 1981 op de markt voor personal computers en domineerde het pc-landschap in de jaren 80. Mac OS uit 1984 was het eerste populaire besturingssysteem met een grafische gebruikersinterface (GUI), wat computers toegankelijk maakte voor een breder publiek. Linux werd in 1991 gelanceerd als een open source UNIX-achtig besturingssysteem en groeide uit tot een belangrijke speler in servers en embedded systemen.
+
+
+De manier waarop mensen met computers communiceren heeft een dramatische transformatie ondergaan, van technische commandoregelinterfaces naar intuïtieve spraak- en aanraakbediening.
+
+De command line was de eerste interface, waarbij gebruikers tekstcommando's moesten typen. GUI (Graphical User Interface) introduceerde windows, iconen en een muis, wat computers veel toegankelijker maakte. Touch interfaces op smartphones en tablets revolutioneerden mobiele computing door directe manipulatie mogelijk te maken. Voice interfaces zoals Siri, Alexa en Google Assistant bieden hands-free bediening en natuurlijke taalinteractie.
+
+
+Kunstmatige intelligentie heeft in golven van optimisme en teleurstelling een lange weg afgelegd, van symbolische AI naar moderne neurale netwerken en large language models.
+
+De term AI werd in 1956 bedacht tijdens de Dartmouth conferentie, waar de grondslag werd gelegd voor AI als wetenschappelijk veld. Deep Blue versloeg in 1997 schaakkampioen Garry Kasparov, wat een mijlpaal was voor game-playing AI. AlexNet betekende in 2012 een breakthrough in deep learning door ImageNet classificatie dramatisch te verbeteren. De Transformer architectuur uit 2017 revolutioneerde language models en maakte systemen mogelijk die natuurlijke taal begrijpen en genereren. ChatGPT bracht in 2022 AI naar de mainstream en liet miljoenen gebruikers kennismaken met de mogelijkheden van generatieve AI.
+
+
+Naarmate data steeds waardevoller werd, groeide ook het besef dat privacy en databeveiliging regulering vereisen. Wetgeving en technologische ontwikkelingen gaan hand in hand in het vormgeven van de digitale economie.
+
+De EU Data Protection Directive uit 1995 was een vroege poging om dataprivacy te reguleren. GDPR (General Data Protection Regulation) uit 2016 is een uitgebreide Europese privacywet die wereldwijd invloed heeft gehad. Big Data wordt gekenmerkt door de 3 V's: Volume (grote hoeveelheden), Velocity (snelle verwerking) en Variety (diverse datatypes). Cloud computing, met pioniers zoals AWS (2006), Azure en Google Cloud, maakt schaalbare computing en opslag toegankelijk voor organisaties van alle groottes.
+
+---
+
+## DRILLS
+
+- In welk jaar werd de transistor uitgevonden bij Bell Labs?:1947
+- In welk jaar werd de geïntegreerde schakeling (IC) uitgevonden?:1958
+- In welk jaar werd Moore’s Law voorspeld?:1965
+- In welk jaar verscheen de Intel 4004 microprocessor?:1971
+
+
+- In welk jaar werd ARPANET gelanceerd?:1969
+- In welk jaar werd het TCP/IP protocol ontwikkeld?:1973
+- In welk jaar werd het World Wide Web ontwikkeld door Tim Berners-Lee?:1989
+- In welk jaar werd de Mosaic browser gepubliceerd?:1993
+
+
+- In welk decennium werd UNIX ontwikkeld?:1970s
+- In welk jaar verscheen MS-DOS voor PC’s?:1981
+- In welk jaar werd Mac OS met een grafische gebruikersinterface geïntroduceerd?:1984
+- In welk jaar werd Linux gelanceerd?:1991
+
+
+- In welk jaar werd de term AI bedacht tijdens de Dartmouth-conferentie?:1956
+- In welk jaar versloeg Deep Blue schaakkampioen Garry Kasparov?:1997
+- In welk jaar betekende AlexNet een doorbraak in deep learning?:2012
+- In welk jaar werd de Transformer-architectuur geïntroduceerd?:2017
+- In welk jaar werd ChatGPT gelanceerd?:2022
+
+
