@@ -1,12 +1,12 @@
-# Maruni - Slim Leerplatform
+# JomCollege - Slim Leerplatform
 
 Een persoonlijk leerplatform dat je helpt om feiten en inzichten te onthouden met behulp van **spaced repetition** (slim herhalen).
 
 ---
 
-## Wat doet Maruni?
+## Wat doet JomCollege?
 
-Maruni is een quiz-app met twee manieren van leren:
+JomCollege is een quiz-app met twee manieren van leren:
 
 ### 1. Drill Mode (Feiten)
 Snelle vraag-en-antwoord oefeningen. Je typt het antwoord en het systeem checkt of het goed is (kleine typefouten worden geaccepteerd).
@@ -65,7 +65,7 @@ Dit wordt gebruikt voor System Mode vragen.
 ## Projectstructuur
 
 ```
-maruni/
+jomcollege/
 ├── app.py                 # Hoofdapplicatie (Streamlit)
 ├── requirements.txt       # Python dependencies
 ├── user_data.json         # Jouw leervoortgang (automatisch aangemaakt)
@@ -73,6 +73,7 @@ maruni/
 │   ├── astr.txt          # Astronomie
 │   ├── chem.txt          # Scheikunde
 │   └── hist_tech.txt     # Technische geschiedenis
+├── leerdoel-extractor/    # PDF → leerdoelen tool
 └── src/                   # Broncode modules
     ├── parser.py         # Leest tekstbestanden
     ├── llm_engine.py     # AI vraag generator
@@ -247,4 +248,4 @@ Samen met vrienden quizzen, wie scoort het hoogst?
 Je drills exporteren naar het populaire Anki flashcard formaat.
 
 ### Mobiele app / PWA
-Progressive Web App maken zodat Maruni als app op je telefoon werkt.
+Progressive Web App maken zodat JomCollege als app op je telefoon werkt.

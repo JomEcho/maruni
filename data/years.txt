@@ -1,0 +1,383 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 .SFNS-Regular;\f1\fswiss\fcharset0 Helvetica;\f2\fnil\fcharset0 AppleColorEmoji;
+\f3\fnil\fcharset0 .SFNS-Semibold;}
+{\colortbl;\red255\green255\blue255;\red14\green14\blue14;}
+{\*\expandedcolortbl;;\cssrgb\c6700\c6700\c6700;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww17080\viewh20520\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 Hoeveel miljard jaar geleden vond de oerknal plaats: 13.8\
+Hoeveel miljard jaar geleden ontstonden de eerste sterren: 13.5\
+Hoeveel miljard jaar geleden ontstonden de eerste sterrenstelsels: 13.2\
+Hoeveel miljard jaar geleden ontstond de Melkweg: 13.0\
+Hoeveel miljard jaar geleden ontstond de zon: 4.6\
+Hoeveel miljard jaar geleden ontstond de aarde: 4.5\
+Hoeveel miljard jaar geleden ontstond de maan: 4.5\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 Hoeveel miljard jaar geleden ontstond het eerste leven op aarde: 3.8\
+Hoeveel miljard jaar geleden begon fotosynthese: 3.0\
+Hoeveel miljard jaar geleden vond de zuurstofrevolutie plaats: 2.4\
+Hoeveel miljoen jaar geleden vond de Cambrische explosie plaats: 541\
+Hoeveel miljoen jaar geleden verschenen de eerste vissen: 530\
+Hoeveel miljoen jaar geleden verschenen de eerste landplanten: 470\
+Hoeveel miljoen jaar geleden verschenen de eerste landdieren: 365\
+Hoeveel miljoen jaar geleden verschenen de eerste reptielen: 320\
+\
+Hoeveel miljoen jaar geleden verschenen de eerste dinosauri\'ebrs: 230\
+Hoeveel miljoen jaar geleden stierven de dinosauri\'ebrs uit: 66\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 Hoeveel miljoen jaar geleden verschenen de eerste zoogdieren: 200\
+Hoeveel miljoen jaar geleden verschenen de eerste primaten: 60\
+Hoeveel miljoen jaar geleden splitsten apen en mensachtigen zich: 7\
+Hoeveel miljoen jaar geleden verscheen Australopithecus: 4\
+Hoeveel miljoen jaar geleden verscheen Homo habilis: 2.4\
+Hoeveel miljoen jaar geleden verscheen Homo erectus: 1.9\
+Hoeveel duizend jaar geleden verscheen Homo sapiens: 300\
+\
+Hoeveel duizend jaar geleden verlieten mensen Afrika: 70\
+Hoeveel duizend jaar geleden bereikten mensen Europa: 45\
+Hoeveel duizend jaar geleden bereikten mensen Australi\'eb: 65\
+Hoeveel duizend jaar geleden bereikten mensen Amerika: 15\
+\
+Hoeveel duizend jaar geleden begon de landbouw: 12\
+Hoeveel duizend jaar geleden ontstonden de eerste steden: 10\
+Hoeveel duizend jaar geleden ontstond het schrift: 5\
+Hoeveel duizend jaar geleden ontstonden de eerste staten: 5\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+In welk jaar begon de bouw van de piramides van Gizeh: -2600\
+In welk jaar ontstond de eerste Olympische Spelen: -776\
+In welk jaar begon de klassieke Griekse periode: -500\
+In welk jaar werd Rome gesticht: -753\
+In welk jaar werd het Romeinse Keizerrijk gesticht: -27\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 In welk jaar viel het West-Romeinse Rijk: 476\
+In welk jaar begon de islam: 622\
+In welk jaar begon de middeleeuwen: 500\
+In welk jaar eindigde de middeleeuwen: 1500\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+In welk jaar werd Leonardo da Vinci geboren: 1452\
+In welk jaar werd Michelangelo geboren: 1475\
+In welk jaar stierf Michelangelo: 1564\
+In welk jaar begon de renaissance: 1400\
+In welk jaar vond de boekdrukkunst plaats: 1450\
+\
+In welk jaar begon de industri\'eble revolutie: 1760\
+In welk jaar vond de Franse Revolutie plaats: 1789\
+In welk jaar begon de Eerste Wereldoorlog: 1914\
+In welk jaar begon de Tweede Wereldoorlog: 1939\
+In welk jaar eindigde de Tweede Wereldoorlog: 1945\
+\
+\
+In welk jaar landde de mens op de maan: 1969\
+In welk jaar viel de Berlijnse Muur: 1989\
+In welk jaar werd het internet publiek toegankelijk: 1991\
+In welk jaar werd ChatGPT gelanceerd: 2022\
+\
+Hoeveel miljard jaar geleden vond de oerknal plaats: 13.8\
+Hoeveel miljard jaar geleden ontstonden de eerste sterren: 13.5\
+Hoeveel miljard jaar geleden ontstonden de eerste sterrenstelsels: 13.2\
+Hoeveel miljard jaar geleden ontstond de Melkweg: 13.0\
+Hoeveel miljard jaar geleden ontstond de zon: 4.6\
+Hoeveel miljard jaar geleden ontstond de aarde: 4.5\
+Hoeveel miljard jaar geleden ontstond de maan: 4.5\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs24 \cf0 \
+
+\f0 \uc0\u11835 
+\f1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f2\fs30 \cf2 \uc0\u55356 \u57101 
+\f3\b  Aarde & leven
+\f0\b0\fs28 \
+\
+Hoeveel miljard jaar geleden ontstond het eerste leven op aarde: 3.8\
+Hoeveel miljard jaar geleden begon fotosynthese: 3.0\
+Hoeveel miljard jaar geleden vond de zuurstofrevolutie plaats: 2.4\
+Hoeveel miljoen jaar geleden vond de Cambrische explosie plaats: 541\
+Hoeveel miljoen jaar geleden verschenen de eerste vissen: 530\
+Hoeveel miljoen jaar geleden verschenen de eerste landplanten: 470\
+Hoeveel miljoen jaar geleden verschenen de eerste landdieren: 365\
+Hoeveel miljoen jaar geleden verschenen de eerste reptielen: 320\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs24 \cf0 \
+
+\f0 \uc0\u11835 
+\f1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f2\fs30 \cf2 \uc0\u55358 \u56726 
+\f3\b  Dinosauri\'ebrs
+\f0\b0\fs28 \
+\
+Hoeveel miljoen jaar geleden verschenen de eerste dinosauri\'ebrs: 230\
+Hoeveel miljoen jaar geleden stierven de dinosauri\'ebrs uit: 66\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs24 \cf0 \
+
+\f0 \uc0\u11835 
+\f1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f2\fs30 \cf2 \uc0\u55357 \u56338 
+\f3\b  Zoogdieren & mensachtigen
+\f0\b0\fs28 \
+\
+Hoeveel miljoen jaar geleden verschenen de eerste zoogdieren: 200\
+Hoeveel miljoen jaar geleden verschenen de eerste primaten: 60\
+Hoeveel miljoen jaar geleden splitsten apen en mensachtigen zich: 7\
+Hoeveel miljoen jaar geleden verscheen Australopithecus: 4\
+Hoeveel miljoen jaar geleden verscheen Homo habilis: 2.4\
+Hoeveel miljoen jaar geleden verscheen Homo erectus: 1.9\
+Hoeveel duizend jaar geleden verscheen Homo sapiens: 300\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs24 \cf0 \
+
+\f0 \uc0\u11835 
+\f1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f2\fs30 \cf2 \uc0\u55357 \u57014 \u8205 \u9794 \u65039 
+\f3\b  Verspreiding van de mens
+\f0\b0\fs28 \
+\
+Hoeveel duizend jaar geleden verlieten mensen Afrika: 70\
+Hoeveel duizend jaar geleden bereikten mensen Europa: 45\
+Hoeveel duizend jaar geleden bereikten mensen Australi\'eb: 65\
+Hoeveel duizend jaar geleden bereikten mensen Amerika: 15\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+Hoeveel duizend jaar geleden begon de landbouw: 12\
+Hoeveel duizend jaar geleden ontstonden de eerste steden: 10\
+Hoeveel duizend jaar geleden ontstond het schrift: 5\
+Hoeveel duizend jaar geleden ontstonden de eerste staten: 5\
+\
+In welk jaar begon de bouw van de piramides van Gizeh: -2600\
+In welk jaar ontstond de eerste Olympische Spelen: -776\
+In welk jaar begon de klassieke Griekse periode: -500\
+In welk jaar werd Rome gesticht: -753\
+In welk jaar werd het Romeinse Keizerrijk gesticht: -27\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+In welk jaar viel het West-Romeinse Rijk: 476\
+In welk jaar begon de islam: 622\
+In welk jaar begon de middeleeuwen: 500\
+In welk jaar eindigde de middeleeuwen: 1500\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\
+In welk jaar werd Leonardo da Vinci geboren: 1452\
+In welk jaar werd Michelangelo geboren: 1475\
+In welk jaar stierf Michelangelo: 1564\
+In welk jaar begon de renaissance: 1400\
+In welk jaar vond de boekdrukkunst plaats: 1450\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\
+In welk jaar begon de industri\'eble revolutie: 1760\
+In welk jaar vond de Franse Revolutie plaats: 1789\
+In welk jaar begon de Eerste Wereldoorlog: 1914\
+In welk jaar begon de Tweede Wereldoorlog: 1939\
+In welk jaar eindigde de Tweede Wereldoorlog: 1945\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+In welk jaar landde de mens op de maan: 1969\
+In welk jaar viel de Berlijnse Muur: 1989\
+In welk jaar werd het internet publiek toegankelijk: 1991\
+\
+Hoeveel miljard jaar geleden vond de oerknal plaats: 13.8\
+Hoeveel miljard jaar geleden ontstonden de eerste sterren: 13.5\
+Hoeveel miljard jaar geleden ontstonden de eerste sterrenstelsels: 13.2\
+Hoeveel miljard jaar geleden ontstond de Melkweg: 13.0\
+Hoeveel miljard jaar geleden ontstond de zon: 4.6\
+Hoeveel miljard jaar geleden ontstond de aarde: 4.5\
+Hoeveel miljard jaar geleden ontstond de maan: 4.5\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs24 \cf0 \
+
+\f0 \uc0\u11835 
+\f1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f2\fs30 \cf2 \uc0\u55356 \u57101 
+\f3\b  Aarde & leven
+\f0\b0\fs28 \
+\
+Hoeveel miljard jaar geleden ontstond het eerste leven op aarde: 3.8\
+Hoeveel miljard jaar geleden begon fotosynthese: 3.0\
+Hoeveel miljard jaar geleden vond de zuurstofrevolutie plaats: 2.4\
+Hoeveel miljoen jaar geleden vond de Cambrische explosie plaats: 541\
+Hoeveel miljoen jaar geleden verschenen de eerste vissen: 530\
+Hoeveel miljoen jaar geleden verschenen de eerste landplanten: 470\
+Hoeveel miljoen jaar geleden verschenen de eerste landdieren: 365\
+Hoeveel miljoen jaar geleden verschenen de eerste reptielen: 320\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\
+Hoeveel miljoen jaar geleden verschenen de eerste dinosauri\'ebrs: 230\
+Hoeveel miljoen jaar geleden stierven de dinosauri\'ebrs uit: 66\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\
+Hoeveel miljoen jaar geleden verschenen de eerste zoogdieren: 200\
+Hoeveel miljoen jaar geleden verschenen de eerste primaten: 60\
+Hoeveel miljoen jaar geleden splitsten apen en mensachtigen zich: 7\
+Hoeveel miljoen jaar geleden verscheen Australopithecus: 4\
+Hoeveel miljoen jaar geleden verscheen Homo habilis: 2.4\
+Hoeveel miljoen jaar geleden verscheen Homo erectus: 1.9\
+Hoeveel duizend jaar geleden verscheen Homo sapiens: 300\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\
+Hoeveel duizend jaar geleden verlieten mensen Afrika: 70\
+Hoeveel duizend jaar geleden bereikten mensen Europa: 45\
+Hoeveel duizend jaar geleden bereikten mensen Australi\'eb: 65\
+Hoeveel duizend jaar geleden bereikten mensen Amerika: 15\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+Hoeveel duizend jaar geleden begon de landbouw: 12\
+Hoeveel duizend jaar geleden ontstonden de eerste steden: 10\
+Hoeveel duizend jaar geleden ontstond het schrift: 5\
+Hoeveel duizend jaar geleden ontstonden de eerste staten: 5\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\
+In welk jaar begon de bouw van de piramides van Gizeh: -2600\
+In welk jaar ontstond de eerste Olympische Spelen: -776\
+In welk jaar begon de klassieke Griekse periode: -500\
+In welk jaar werd Rome gesticht: -753\
+In welk jaar werd het Romeinse Keizerrijk gesticht: -27\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\
+In welk jaar viel het West-Romeinse Rijk: 476\
+In welk jaar begon de islam: 622\
+In welk jaar begon de middeleeuwen: 500\
+In welk jaar eindigde de middeleeuwen: 1500\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\
+In welk jaar werd Leonardo da Vinci geboren: 1452\
+In welk jaar werd Michelangelo geboren: 1475\
+In welk jaar stierf Michelangelo: 1564\
+In welk jaar begon de renaissance: 1400\
+In welk jaar vond de boekdrukkunst plaats: 1450\
+\
+In welk jaar begon de industri\'eble revolutie: 1760\
+In welk jaar vond de Franse Revolutie plaats: 1789\
+In welk jaar begon de Eerste Wereldoorlog: 1914\
+In welk jaar begon de Tweede Wereldoorlog: 1939\
+In welk jaar eindigde de Tweede Wereldoorlog: 1945\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs24 \cf0 \
+
+\f0 \uc0\u11835 
+\f1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f2\fs30 \cf2 \uc0\u55357 \u56960 
+\f3\b  Recente geschiedenis
+\f0\b0\fs28 \
+\
+In welk jaar landde de mens op de maan: 1969\
+In welk jaar viel de Berlijnse Muur: 1989\
+In welk jaar werd het internet publiek toegankelijk: 1991\
+In welk jaar werd ChatGPT gelanceerd: 2022\
+\
+\
+\
+}

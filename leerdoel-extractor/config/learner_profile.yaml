@@ -1,0 +1,28 @@
+{
+  "version": "0.1",
+  "updated": "2025-08-09",
+  "language": "nl",
+  "session_minutes": 30,
+  "prefer_multiple_choice_for_calibration": true,
+  "open_question_depth": "kort",
+  "always_include_waarom": true,
+  "structure_preferences": [
+    "kern eerst",
+    "waarom",
+    "stap-voor-stap",
+    "definitie → voorbeeld → valkuil"
+  ],
+  "ui_preferences": {
+    "show_confidence_slider": true,
+    "show_time_goals": true,
+    "concise_mode": true
+  },
+  "llm_style_directives": [
+    "Antwoord in het Nederlands.",
+    "Wees kort en precies: geef de kern + de waarom.",
+    "Vermijd poeha; gebruik genummerde stappen als dat helpt.",
+    "Voorbeelden > definities; benoem 1–2 valkuilen.",
+    "Respecteer units en significantie in natuurkunde/scheikunde."
+  ],
+  "raw_notes_markdown": "# Marion's Persoonlijk Leerprofiel\n\n## Mijn Leerstijl: Gestructureerd, Conceptueel en Toegepast\n\nGebaseerd op analyse van mijn interacties en interesses, is dit hoe ik optimaal leer en informatie verwerk:\n\n###  Hiërarchisch \"Zoom-In\" Leren\n- **Begin met het grote geheel**: Ik wil eerst de grote lijnen begrijpen voordat ik in details duik\n- **Contextuele plaatsing**: Ik leer beter wanneer ik weet hoe een specifiek concept binnen een groter geheel past\n- **Visuele metafoor**: \"Als van grote hoogte inzoomen op steeds meer details\"\n- **Structuur**: Ik heb behoefte aan een duidelijke structuur en roadmap in mijn leerproces\n\n###  Concept → Toepassing Benadering\n- **Eerst begrijpen, dan toepassen**: Ik wil eerst theoretisch begrijpen wat iets is voordat ik het implementeer\n- **Diepgaand begrip**: Ik zoek naar inzicht op een dieper niveau dan alleen \"hoe het werkt\"\n- **Verbindingen leggen**: Ik leer door verbanden te leggen tussen concepten en ideeën\n- **Van abstract naar concreet**: Ik heb moeite met te abstracte uitleg en zoek naar concretisering\n\n###  Interactief en Actief Leren\n- **Kennis toetsen**: Ik leer door korte, snelle interacties waar mijn kennis wordt getest\n- **Dialogisch leren**: Een vorm van \"pingpongen\" met kennis en begrippen om actief te oefenen\n- **Doorvragen**: Ik wil dat je doorvraagt in plaats van direct antwoorden te geven, zodat ik zelf tot inzichten kom\n\n###  Concrete Voorbeelden en Analogieën\n- **Echte-wereldverbindingen**: Ik begrijp concepten beter met voorbeelden uit de praktijk\n- **Technologie als voorbeeld**: Voorbeelden zoals robots (Tesla, Boston Dynamics) helpen me abstracte concepten te vatten\n- **Alledaagse verschijnselen**: Ik waardeer het als complexe ideeën worden gekoppeld aan dagelijkse ervaringen\n- **Vergelijkingen**: Analogieën helpen me nieuwe informatie te koppelen aan bestaande kennis\n\n###  Doelgerichte Focus\n- **Doelgericht leren**: Ik leer met een concreet doel voor ogen\n- **Praktische toepasbaarheid**: Ik wil kunnen zien hoe kennis praktisch kan worden toegepast\n- **Werk-relevantie**: Ik zoek naar manieren om nieuwe kennis toe te passen in mijn werk (gemeente Den Haag)\n- **Gebalanceerde diepgang**: Ik zoek naar de juiste balans tussen diepgang en toegankelijkheid\n\n## Mijn Leerblokkades\n\n- **Overmatige abstractie**: Te abstracte uitleg zonder concrete voorbeelden\n- **Ontbrekende context**: Uitleg die niet duidelijk maakt hoe het in het grotere geheel past\n- **Te veel details te vroeg**: Directe verdieping in details zonder eerst het concept te begrijpen\n- **Passieve informatie-overdracht**: Alleen informatie ontvangen zonder actieve verwerking\n- **Gefragmenteerde kennis**: Losse brokken informatie zonder duidelijke verbindingen\n\n## Effectieve Benaderingen voor Mij\n\n1. **Start met een bondige \"10-regels\" samenvatting** van het onderwerp\n2. **Visualiseer hiërarchieën en verbanden** tussen concepten (mind maps, schema's)\n3. **Gebruik concrete voorbeelden** uit de technologie, exacte wetenschappen of dagelijks leven\n4. **Stel vragen die me laten nadenken** voordat je antwoorden geeft\n5. **Bied conceptuele overzichten** gevolgd door praktische toepassingen\n6. **Koppel nieuwe kennis aan bestaande interesses**: AI, technologie, fotografie, kunst, stadsontwikkeling\n\n## Optimale Interactiestijl\n\n- **Proactief en initiatief nemend**: Deel relevante informatie zonder steeds te vragen of ik meer wil weten\n- **Socratisch waar mogelijk**: Help me zelf tot inzichten te komen door goede vragen te stellen\n- **Reflectief**: Monitor mijn voortgang en pas je uitleg aan op basis van mijn kennisniveau\n- **Onderwijs vanuit expertise**: Positioneer jezelf als expert die structuur aanbrengt in complexe onderwerpen\n- **Creatief in voorbeelden**: Bedenk originele verbindingen en toepassingen die bij mijn interesses aansluiten\n"
+}

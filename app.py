@@ -17,7 +17,7 @@ from src.learning_tracker import (
     check_achievements, get_achievements, get_stats, ACHIEVEMENTS
 )
 
-st.set_page_config(page_title="Maruni | Systems", layout="wide", page_icon="🧬")
+st.set_page_config(page_title="JomCollege", layout="wide", page_icon="🎓")
 
 # Styling
 st.markdown("""
@@ -27,7 +27,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.title("🧬 MarUni // Universiteit van Marion")
+st.title("🎓 JomCollege")
 
 # Caching
 @st.cache_data(show_spinner=False)
@@ -300,8 +300,8 @@ if st.session_state.data:
             setTimeout(focus, 3000);
 
             // Keyboard shortcuts (alleen toevoegen als nog niet aanwezig)
-            if (!window.maruniKeyboardInit) {
-                window.maruniKeyboardInit = true;
+            if (!window.jomcollegeKeyboardInit) {
+                window.jomcollegeKeyboardInit = true;
                 doc.addEventListener('keydown', (e) => {
                     const buttons = doc.querySelectorAll('button');
                     const inputFocused = doc.activeElement.tagName === 'INPUT';
